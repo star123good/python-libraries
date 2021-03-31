@@ -7,3 +7,4 @@
 	pyinstaller
 	PyQt5
 	pylint
+	mysql-connector-python
