@@ -15,3 +15,4 @@
 	matplotlib
 	selenium
 	Gunicorn
+	waitress
