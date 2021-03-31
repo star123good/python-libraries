@@ -8,3 +8,5 @@
 	PyQt5
 	pylint
 	mysql-connector-python
+	Django
+	djangorestframework
