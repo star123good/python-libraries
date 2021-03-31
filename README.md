@@ -6,3 +6,4 @@
 	Scrapy
 	pyinstaller
 	PyQt5
+	pylint
