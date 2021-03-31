@@ -18,3 +18,4 @@
 	waitress
 	Flask
 	Flask packages
+	beautifulsoup4
