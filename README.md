@@ -10,3 +10,6 @@
 	mysql-connector-python
 	Django
 	djangorestframework
+	numpy
+	pandas
+	matplotlib
