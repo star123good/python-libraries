@@ -16,3 +16,5 @@
 	selenium
 	Gunicorn
 	waitress
+	Flask
+	Flask packages
